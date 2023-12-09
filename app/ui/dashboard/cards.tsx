@@ -5,6 +5,7 @@ import {
   InboxIcon,
 } from '@heroicons/react/24/outline';
 
+
 const iconMap = {
   collected: BanknotesIcon,
   customers: UserGroupIcon,
